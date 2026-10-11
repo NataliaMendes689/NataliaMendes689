@@ -64,7 +64,28 @@ that keeps the systems running.
 
 ### 🎓 Education
 
-**Faculdade de Tecnologia de Sorocaba**
+| | |
+| --- | --- |
+| **Analysis and Systems Development** — CST | Faculdade de Tecnologia de Sorocaba · 2021 – 2024 |
+| **Electronics Technician** | IFSP — Instituto Federal de São Paulo · 2019 – 2022 |
+
+The electronics background is why the shop floor is not a black box to me: before
+writing software for equipment, I was trained on the equipment.
+
+<br/>
+
+### 📜 Certifications
+
+| | |
+| --- | --- |
+| **SRE & DevOps** — 76 hours | idvlabs · 2025 |
+| **Cybersecurity Mentorship Programme** — 24 hours | CyberSecurityGirls BR · 2024 |
+
+**SRE & DevOps** covered observability, infrastructure automation, CI/CD pipelines,
+reliability and incident response — the areas that back the infrastructure side of my
+work. **Cybersecurity** covered offensive security, incident response and cloud
+security; industrial and automation environments have an attack surface of their own
+and are getting more attention every year.
 
 <br/>
 
