@@ -56,7 +56,7 @@ that keeps the systems running.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" alt="REST APIs" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
@@ -77,6 +77,6 @@ here.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natalia-mendes-2088a7158">
-    <img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
