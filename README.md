@@ -66,8 +66,8 @@ that keeps the systems running.
 
 | | |
 | --- | --- |
-| **Analysis and Systems Development** — CST | Faculdade de Tecnologia de Sorocaba · 2021 – 2024 |
-| **Electronics Technician** | IFSP — Instituto Federal de São Paulo · 2019 – 2022 |
+| **Analysis and Systems Development** — CST | Faculdade de Tecnologia de Sorocaba |
+| **Electronics Technician** | IFSP — Instituto Federal de São Paulo |
 
 The electronics background is why the shop floor is not a black box to me: before
 writing software for equipment, I was trained on the equipment.
